@@ -20,7 +20,7 @@ let cats={
     'wendy':{
         'catName': "wendy",
         'age': "Senior",
-        'behavior': "Gentle",
+        'behavior': "Loving",
         'image':'https://consideratecat.com/wp-content/uploads/2022/04/F97601FF-B3FD-4B63-889E-3581112DC081_1_105_c.jpeg',
         'story': "Molly and Wendy were my first two foster cats and thus hold a special place in The Considerate Cat Family. I was told that since they were a senior bonded pair that I may be taking on long term cats. Within a few weeks the cats were adopted by a lovely couple and remain with them to this day."
 
@@ -43,7 +43,7 @@ let cats={
     'charlotte and kittens':{
         'catName': "Charlotte and Her Kittens",
         'age': "Young Adult",
-        'behavior': "Very Challenging",
+        'behavior': "Protective Mother",
         'image':'https://consideratecat.com/wp-content/uploads/2022/04/630BADDC-1CD0-45E9-9FA1-8FD407387855_1_105_c.jpeg',
         'story': "My friends and I were in Penticton for our Highschool Reunion (Who actually goes to those?!) and I saw a posting from the rescue I work at that a bunch of kittens and their mum needed to be picked up and brought back to Vancouver from an abandonded AirBnB in Penticton. Of course we rose to the challenge and delivered them to VOKRA. I fostered them shortly after they were cleared for fostering. All the kittens and Mama Charlotte were adopted to good homes where they remain."
     },
@@ -68,10 +68,122 @@ let cats={
         'age': "Young Adult",
         'behavior': "So Sweet",
         'image':'https://consideratecat.com/wp-content/uploads/2022/04/B007ABE5-2FF7-497A-82A6-F5D740DCA1D0_1_105_c.jpeg',
-        'story': "I asked my rescue if I could please foster a pregnant mother before I moved (I wasn't sure if my next apartment would allow multiple cats.) They obliged and gave me Mama! Well, she ended up birthing 9 kittens so for the next 10 weeks after birth my house was complete chaos. Wonderfully; the chaos was so well balanced by the kittens sweetness. Each kitten was adopted in pairs and the ninth kitten was adopted with Mama."
+        'story': "I asked my rescue if I could please foster a pregnant mother before I moved (I wasn't sure if my next apartment would allow multiple cats.) They obliged and gave me Mama! Well, she ended up birthing 9 kittens so for the next 10 weeks after birth my house was complete chaos. Wonderfully; the chaos was so well balanced by the kittens sweetness. Each kitten was adopted in pairs and the ninth kitten was adopted with Mama."},
+    'cricket':{
+        'catName': "Cricket",
+        'age': "Bottle Feeder",
+        'behavior': "Spicy ",
+        'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/4B14B2BC-8462-4D38-8131-AB3CBFEA9424_1_105_c.jpeg?resize=400%2C400&ssl=1',
+        'story': "Coming Soon."},
+     'cole':{
+        'catName': "Cole",
+        'age': "Bottle Feeder",
+        'behavior': "Very Gentle ",
+        'image':'https://consideratecat.com/wp-content/uploads/2021/04/04862509-B608-4582-AE31-0EA89C9F6C9D_1_102_a.jpeg',
+        'story': "Coming Soon."},
+    'elmer':{
+        'catName': "Elmer",
+        'age': "Bottle Feeder",
+        'behavior': "Very Gentle ",
+        'image':'https://consideratecat.com/wp-content/uploads/2021/04/A40329E2-0B5C-4C6C-A00C-044CA69F10BA_1_105_c.jpeg',
+        'story': "Coming Soon."},
+    'elmer':{
+        'catName': "Elmer",
+        'age': "Bottle Feeder",
+        'behavior': "Very Gentle ",
+        'image':'https://consideratecat.com/wp-content/uploads/2021/04/A40329E2-0B5C-4C6C-A00C-044CA69F10BA_1_105_c.jpeg',
+        'story': "Coming Soon."},
+    'abe':{
+        'catName': "Abe",
+        'age': "Teen",
+        'behavior': "Bitey",
+        'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/8623FCE0-2C8C-4FB3-A3C7-BB7127AE6F73_1_105_c.jpeg?resize=400%2C400&ssl=1',
+        'story': "Coming Soon."},
+    'alice':{
+        'catName': "Alice",
+        'age': "Teen",
+        'behavior': "Very Gentle",
+        'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/6723B968-CDEC-4075-A3DB-56080D10DD96_1_105_c.jpeg?resize=400%2C400&ssl=1.',
+        'story': "Coming Soon."},
+     'alice':{
+        'catName': "Abe",
+        'age': "Teen",
+        'behavior': "Bitey",
+        'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/6723B968-CDEC-4075-A3DB-56080D10DD96_1_105_c.jpeg?resize=400%2C400&ssl=1.',
+        'story': "Coming Soon."},
 
-
-    }
+   'june':{
+        'catName': "June",
+        'age': "Teen",
+        'behavior': "Scared",
+        'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/B971D022-5BF2-45C5-BBF4-FCA2FE0226CC_1_102_a.jpeg?resize=400%2C400&ssl=1.',
+        'story': "Coming Soon."},
+   'daniel':{
+        'catName': "Daniel",
+        'age': "Teen",
+        'behavior': "Scared but Confident",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/7148F3BB-CC64-4AE8-9081-0347C928C2D8_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'hans':{
+        'catName': "Hans",
+        'age': "Bottle Feeder",
+        'behavior': "Happy and Confident",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/E2EB756B-5323-443F-9ECC-FF5428B1A2BF_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'heidi':{
+        'catName': "Heidi",
+        'age': "Teen",
+        'behavior': "Scared but Confident",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/B1E580AB-18B1-4E07-AA7D-0F9B173C1898_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'fiona':{
+        'catName': "Fiona",
+        'age': "Teen",
+        'behavior': "Happy!",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/EA7775E8-9D84-412C-B501-E362B529C895_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'sienna':{
+        'catName': "Sienna",
+        'age': "Bottle Feeder",
+        'behavior': "Happy and Sweet",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/493315AA-680E-4C34-9CEF-F3A1B410CDD0_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'aspen':{
+        'catName': "Aspen",
+        'age': "Bottle Feeder",
+        'behavior': "Happy and Meowy",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/99DFC6D2-2272-47E3-8B16-68205FF5F054_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'henry':{
+        'catName': "Henry",
+        'age': "Bottle Feeder",
+        'behavior': "Very Confident",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/2C54A624-4286-4ED2-AB80-96938F9A7CB9_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'holden':{
+        'catName': "Holden",
+        'age': "Bottle Feeder",
+        'behavior': "A bit nervous",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/5A2429D5-939F-469F-8B9A-92318299EC6B_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'ellen':{
+        'catName': "ellen",
+        'age': "Bottle Feeder",
+        'behavior': "VERY confident",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/624D0080-BC5E-4DAE-9045-30EBAC2D21C3_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'gemma':{
+        'catName': "gemma",
+        'age': "Teen",
+        'behavior': "Shy",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/73A9C586-DAA7-4227-9A4D-702070945EC2_1_105_c.jpeg',
+        'story': "Coming Soon."},
+   'Piper':{
+        'catName': "Piper",
+        'age': "Teen",
+        'behavior': "Scared",
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/08CC38E8-13C3-4224-BADB-02E6BD5CB2AE_1_105_c.jpeg',
+        'story': "Coming Soon."},
 }
 
 app.get('/', (request, response) => {

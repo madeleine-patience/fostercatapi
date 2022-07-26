@@ -37,14 +37,14 @@ let cats={
         'catName': "Butters",
         'age': "Young Adult",
         'behavior': "Very Challenging",
-        'image':'https://consideratecat.com/wp-content/uploads/2022/04/A64208F1-7D03-45CC-A0DD-2513D025BC68_1_105_c.jpeg',
+        'image':'https://consideratecat.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-20-at-7.26.00-PM.png',
         'story': "Butters came into The Considerate Cat Family after I needed a Buddy for my bored foster; Phaedra. Butters was a bully, for lack of a kinder term. He would corner me in my own apartment and maul me several times a day. But inside he's just a big softie. After years of work and patience he became a lovely boy and a good buddy to Phaedra. They both are adopted and remain adopted and even have a real life human baby brother now."
     },
     'charlotte and kittens':{
         'catName': "Charlotte and Her Kittens",
         'age': "Young Adult",
         'behavior': "Protective Mother",
-        'image':'https://consideratecat.com/wp-content/uploads/2022/04/630BADDC-1CD0-45E9-9FA1-8FD407387855_1_105_c.jpeg',
+        'image':'https://consideratecat.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-20-at-7.32.31-PM.png',
         'story': "My friends and I were in Penticton for our Highschool Reunion (Who actually goes to those?!) and I saw a posting from the rescue I work at that a bunch of kittens and their mum needed to be picked up and brought back to Vancouver from an abandonded AirBnB in Penticton. Of course we rose to the challenge and delivered them to VOKRA. I fostered them shortly after they were cleared for fostering. All the kittens and Mama Charlotte were adopted to good homes where they remain."
     },
     'gigi':{
@@ -59,7 +59,7 @@ let cats={
         'catName': "Mr.Mystery",
         'age': "Young Adult",
         'behavior': "A Bit Grumpy",
-        'image':'https://consideratecat.com/wp-content/uploads/2022/04/697E3154-4D23-4101-80E1-3784E651D0A2_1_105_c.jpeg',
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/A821C971-201F-48A6-AF0C-F3D164F19AA4_1_105_c.jpeg',
         'story': "Mr.Mystery was picked up from a farm by me and brought back to my tiny apartment. Upon arival and obvservation- Mr.Mystery was very depressed. At his farm he had tons of space and cats to play with. So I reached out to my rescue and requested him a Buddy. Shortly after matching him with someone- I drove to drop him off at his new home. To his delight; the house I dropped him at was 6 stories tall and in the ritziest neighbourhoods in Vancouver. I love it when my cats are more successful than... I'll ever be?."
 
     },
@@ -73,19 +73,13 @@ let cats={
         'catName': "Cricket",
         'age': "Bottle Feeder",
         'behavior': "Spicy ",
-        'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/4B14B2BC-8462-4D38-8131-AB3CBFEA9424_1_105_c.jpeg?resize=400%2C400&ssl=1',
+        'image':'https://consideratecat.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-10-at-6.35.17-PM.png',
         'story': "Coming Soon."},
      'cole':{
         'catName': "Cole",
         'age': "Bottle Feeder",
         'behavior': "Very Gentle ",
-        'image':'https://consideratecat.com/wp-content/uploads/2021/04/04862509-B608-4582-AE31-0EA89C9F6C9D_1_102_a.jpeg',
-        'story': "Coming Soon."},
-    'elmer':{
-        'catName': "Elmer",
-        'age': "Bottle Feeder",
-        'behavior': "Very Gentle ",
-        'image':'https://consideratecat.com/wp-content/uploads/2021/04/A40329E2-0B5C-4C6C-A00C-044CA69F10BA_1_105_c.jpeg',
+        'image':'https://consideratecat.com/wp-content/uploads/2021/04/4BBF200A-9748-49C1-8CB9-07152A758F78_1_102_a.jpeg',
         'story': "Coming Soon."},
     'elmer':{
         'catName': "Elmer",
@@ -103,12 +97,6 @@ let cats={
         'catName': "Alice",
         'age': "Teen",
         'behavior': "Very Gentle",
-        'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/6723B968-CDEC-4075-A3DB-56080D10DD96_1_105_c.jpeg?resize=400%2C400&ssl=1.',
-        'story': "Coming Soon."},
-     'alice':{
-        'catName': "Abe",
-        'age': "Teen",
-        'behavior': "Bitey",
         'image':'https://i0.wp.com/consideratecat.com/wp-content/uploads/2022/04/6723B968-CDEC-4075-A3DB-56080D10DD96_1_105_c.jpeg?resize=400%2C400&ssl=1.',
         'story': "Coming Soon."},
 

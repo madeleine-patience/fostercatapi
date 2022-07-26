@@ -51,7 +51,7 @@ let cats={
         'catName': "GiGi",
         'age': "Young Adult",
         'behavior': "Sweet As Pie",
-        'image':'https://consideratecat.com/wp-content/uploads/2022/04/697E3154-4D23-4101-80E1-3784E651D0A2_1_105_c.jpeg',
+        'image':'https://consideratecat.com/wp-content/uploads/2022/04/D9F97D51-0C48-4CC8-9A83-00BB9C9555FC_1_102_o.jpeg',
         'story': "Of course I love all my foster kittens equally- But I think GiGi was the most beautiful of all. Tied with Abe maybe. Gigi was my foster cat for a short while when I lived at a boarding school full of teenagers. I had an apartment in a girls dormitory and Gigi would often go missing only to be found curled up with one of the girls helping to study or releive stress. Gigi was snapped up very quickly by adopters where she remains."
 
     },
